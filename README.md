@@ -16,9 +16,6 @@ https://github.com/Artrium1/Grocery-Inventory-Management-System
 
 - Database For a Restaurant
   https://github.com/Artrium1/Database-For-a-Restaurant
-- 
-
-- 
 
 <!---
 Artrium1/Artrium1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
